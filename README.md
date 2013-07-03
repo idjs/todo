@@ -19,3 +19,6 @@ Daftar ide, usulan, dsb yang menarik untuk dikerjakan bersama
 ## Code
 
 + Bahasa Inggris -> Bahasa Indonesia
+
+## Screencast
++ Sharing praktik coding bikin sesuatu
