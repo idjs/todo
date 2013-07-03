@@ -8,6 +8,7 @@ Daftar ide, usulan, dsb yang menarik untuk dikerjakan bersama
 + Dasar-dasar javascript
 + Dasar-dasar HTML
 + Dasar-dasar CSS
++ Dasar-dasar NodeJS
 + Mengenal Prototype
 + Unit testing menggunakan jasmine
 + Membuat module NodeJS
