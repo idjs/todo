@@ -16,6 +16,11 @@ Daftar ide, usulan, dsb yang menarik untuk dikerjakan bersama
 + Eksplorasi WebAudio
 + Eksplorasi Canvas
 
+###Referensi Buku
+
+#### Oreilly - JavaScript The Definitive Guide 6th Edition
+Sesuai dengan yang ditulis oleh [Douglas Crockford](http://javascript.crockford.com/javascript.html) pada laman pribadinya. Buku ini menjelaskan `Javascript` secara fundamental/ mendasar dan menyeluruh.
+
 ## Code
 
 + Bahasa Inggris -> Bahasa Indonesia
